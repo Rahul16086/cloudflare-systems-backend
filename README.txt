@@ -1,0 +1,2 @@
+This project gave me an overall refresh to my current skill set. I learned a lot about the Workers API,  KV and figured how to use the same. That was quite interesting and a new experience altogether. I learnt Go and some server side code, which I already had some idea.
+The most difficult part is learning a new language, which I had no idea of. I learnt Go, inorder to complete the systems assignment and that went well too.
